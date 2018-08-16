@@ -1,0 +1,9 @@
+E:\Wyy测试工程\新建文件夹\ProgressTest\ProgressTest\bin\Release\ProgressTest.exe.config
+E:\Wyy测试工程\新建文件夹\ProgressTest\ProgressTest\bin\Release\ProgressTest.exe
+E:\Wyy测试工程\新建文件夹\ProgressTest\ProgressTest\bin\Release\ProgressTest.pdb
+E:\Wyy测试工程\新建文件夹\ProgressTest\ProgressTest\obj\Release\ProgressTest.Form1.resources
+E:\Wyy测试工程\新建文件夹\ProgressTest\ProgressTest\obj\Release\ProgressTest.Properties.Resources.resources
+E:\Wyy测试工程\新建文件夹\ProgressTest\ProgressTest\obj\Release\ProgressTest.csproj.GenerateResource.cache
+E:\Wyy测试工程\新建文件夹\ProgressTest\ProgressTest\obj\Release\ProgressTest.csproj.CoreCompileInputs.cache
+E:\Wyy测试工程\新建文件夹\ProgressTest\ProgressTest\obj\Release\ProgressTest.exe
+E:\Wyy测试工程\新建文件夹\ProgressTest\ProgressTest\obj\Release\ProgressTest.pdb
